@@ -1,0 +1,16 @@
+{
+  "catagories": [
+    {
+      "id": 1,
+      "name": "game"
+    },
+    {
+      "id": 2,
+      "name": "picture"
+    },
+    {
+      "name": "asas",
+      "id": 3
+    }
+  ]
+}
